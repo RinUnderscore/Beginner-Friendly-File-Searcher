@@ -12,6 +12,7 @@ Beta Releases:
 
 Installation Steps
 ```
+0. Download Python3
 1. Download main.py
 2. Move to either:
   - C:
