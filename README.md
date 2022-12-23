@@ -12,6 +12,7 @@ Beta Releases:
 
 Installation Steps
 ```
+For Windows 64x or Beta Releases:
 0. Download Python3
 1. Download main.py
 2. Move to either:
@@ -22,6 +23,11 @@ Installation Steps
 python3 main.py
 
 Note: If there are any issues with this function, check for any other python files titled "main.py". You can rename this main.py file but then make sure to use the suitable file name for python3 command.
+
+For GCP 5.15.0-1025 (replit)
+Download and Port the Entire Repository
+Rename your main.py to "BFS.py"
+To use, go into the ".replit" folder and change the entrypoint from "main.py" to "BFS.py".
 
 ```
 
