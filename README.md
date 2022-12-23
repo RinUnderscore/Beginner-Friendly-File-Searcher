@@ -4,7 +4,7 @@ Easier, User-Friendly, File Searcher
 ## Download
 Stable Releases:
 - Windows 64x
-- Replit Codespaces OS
+- GCP 5.15.0-1025
 
 Beta Releases:
 - Certain Linux Distros with "Windows-like" Commands
