@@ -29,11 +29,7 @@ for x in range(len(os.listdir())):
   if keyword in (os.listdir()[x]):
     links.append(os.listdir()[x])
   else:
-    # Failsafe for Future Code Cleanability
-    try:
-      break
-    except:
-      bool = True
+    break
 
 # Display Results
 print("Search Results: ")
