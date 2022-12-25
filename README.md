@@ -10,7 +10,12 @@ Beta Releases:
 - Certain Linux Distros with "Windows-like" Commands
 - Windows 32x
 
-Installation Steps
+Instalation: 
+```
+1. Run filesearcher.exe when downloading latest version.
+```
+
+Portable Installation Steps
 ```
 For Windows 64x or Beta Releases:
 0. Download Python3
