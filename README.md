@@ -4,7 +4,7 @@ Easier, User-Friendly, File Searcher
 ## Download
 Stable Releases:
 - Windows 64x
-- GCP 5.15.0-1025
+- GCP 5.15.0-1025 (portable only)
 
 Beta Releases:
 - Certain Linux Distros with "Windows-like" Commands
